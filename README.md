@@ -67,4 +67,4 @@ print("✅ 等待结束，开始执行主脚本...")
 
 -- 在这里拼接你的主脚本
 -- 你的主脚本内容从这里开始...
-loadstring(game:HttpGet("https://chen20110218.github.io/ESp2.3.2011",true))()# wenzi-ESP
+loadstring(game:HttpGet("https://chen20110218.github.io/ESp2.3.2011",true))()
